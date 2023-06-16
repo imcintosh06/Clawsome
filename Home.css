@@ -1,0 +1,329 @@
+* {
+    font-family: sans-serif;
+}
+
+
+.nav-bar {
+    background-color: #ADD8E6;
+    border-bottom: solid #1a2b56;
+    padding-bottom: 70px;
+}
+nav {
+    display: inline-block;
+}
+
+.nav-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.nav-bar li {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.nav-bar a {
+    color: #1a2b56;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+}
+
+.nav-bar a:hover {
+    text-decoration: underline;
+}
+
+
+.header-image {
+    margin-top: 40px;
+    position: relative;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.header-w {
+    background-color: white;
+    font-size: 20px;
+    margin-left: 20%;
+    text-align: center;
+    padding-right: 210px;
+}
+
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.16);
+    background-color: #fff;
+    display: inline-block;
+}
+
+
+/* What Cat Section*/
+
+.ginger {
+    height: 400px;
+    width: auto;
+    border-radius: 3%;
+    margin: 0 auto;
+}
+
+.whatis {
+    padding-top: 100px;
+}
+
+.info{
+    font-size: 30px;
+    margin-left: 20%;
+
+}
+
+.info-cat {
+    font-size: 17px;
+}
+
+.cat-parent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+/* Types Section*/
+
+.chart {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 180px;
+    height: 500px;
+}
+
+.breeds {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+    width: 61%;
+}
+
+.Colors {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.cat-types {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+/* Senses Section*/
+
+.cat-s {
+    font-size: 30px;
+    margin-left: 19.5%;
+}
+
+/* Cat Hearing*/
+
+.ears {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 250px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+
+.hearing-e {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 65%;
+}
+
+/* Cat Eyesight*/
+
+.eyeball {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 250px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.eyes {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 65%;
+}
+
+/* Cat Smell*/
+
+
+.bignose {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 250px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.cat-nose {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 65%;
+}
+
+/* Cat Taste*/
+
+.pink {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 250px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.cat-tongue {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 65%;
+}
+
+/* Cat Touch*/
+
+
+.boop {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 250px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.cat-touch {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 65%;
+}
+
+/* Reproduction */
+
+.catbaby {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.nursing {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 248px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.cycle {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 70%;
+}
+
+.preg {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 70%;
+}
+
+/* Where They Came From */
+
+.where {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.egypt {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 225px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.categypt {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 70%;
+}
+
+/* What They Eat */
+
+.catfood {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.humanfood {
+    height: 300px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 225px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.hungry {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 70%;
+}
+
+/* Adoption */
+
+.adopt {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.getacat {
+    font-size: 17px;
+    margin-left: 19.5%;
+    width: 70%;
+}
+
+.adoptthiscat {
+    height: 100px;
+    width: auto;
+    border-radius: 3%;
+    margin-left: 225px;
+    height: 400px;
+    margin-bottom: 20px; }
+
+footer {
+    margin-top: 70px;
+    background-color: #ADD8E6;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    border-top: solid #1a2b56;
+   } 
+
+.feet {
+    text-align: center;
+    color: #1a2b56;
+    font-size: 30px;
+
+   }
